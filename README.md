@@ -24,7 +24,7 @@ I enjoy working with Linux, automation, containerization, CI/CD pipelines, cloud
 
 ### 1. End-to-End CI/CD DevOps Project
 
-Flask application containerized using Docker, with automated image building and publishing through GitHub Actions, infrastructure provisioning using Terraform, and AWS EC2 deployment.
+Flask application containerized using Docker, with GitHub Actions automating Docker image building and publishing, Terraform provisioning AWS infrastructure, and a previous successful application deployment and testing on AWS EC2.
 
 [View Project](https://github.com/tehreem-tariq901/cicd-project)
 
