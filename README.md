@@ -34,10 +34,6 @@ Flask application integrated with MySQL and Jira, containerized using Docker Com
 
 [View Project](https://github.com/tehreem-tariq901/flask-devops-ci-cd)
 
-### 3. CloudForge
-
-Three-engineer team project focused on AWS infrastructure and Kubernetes.
-
 ## 📚 Hands-on Learning
 
 - KodeKloud DevOps, AWS and Azure practical tasks
